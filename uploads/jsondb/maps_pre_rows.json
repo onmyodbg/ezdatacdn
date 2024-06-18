@@ -1,0 +1,2060 @@
+[
+    {
+        "id": "1",
+        "type_id": "1",
+        "display_name": "ama_dun03",
+        "parent_name": "ama_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "2",
+        "type_id": "1",
+        "display_name": "pay_dun04",
+        "parent_name": "pay_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "3",
+        "type_id": "1",
+        "display_name": "in_sphinx3",
+        "parent_name": "in_sphinx",
+        "sprite_name": ""
+    },
+    {
+        "id": "4",
+        "type_id": "1",
+        "display_name": "nyd_dun01",
+        "parent_name": "nyd_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "5",
+        "type_id": "1",
+        "display_name": "treasure02",
+        "parent_name": "treasure",
+        "sprite_name": ""
+    },
+    {
+        "id": "6",
+        "type_id": "1",
+        "display_name": "tha_t05",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "7",
+        "type_id": "1",
+        "display_name": "ra_san01",
+        "parent_name": "ra_san",
+        "sprite_name": ""
+    },
+    {
+        "id": "8",
+        "type_id": "1",
+        "display_name": "nameless_n",
+        "parent_name": "abbey",
+        "sprite_name": ""
+    },
+    {
+        "id": "9",
+        "type_id": "1",
+        "display_name": "anthell02",
+        "parent_name": "anthell",
+        "sprite_name": ""
+    },
+    {
+        "id": "10",
+        "type_id": "1",
+        "display_name": "tur_dun02",
+        "parent_name": "tur_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "11",
+        "type_id": "1",
+        "display_name": "gefenia01",
+        "parent_name": "gefenia",
+        "sprite_name": ""
+    },
+    {
+        "id": "12",
+        "type_id": "1",
+        "display_name": "c_tower2",
+        "parent_name": "c_tower",
+        "sprite_name": ""
+    },
+    {
+        "id": "13",
+        "type_id": "1",
+        "display_name": "tha_t11",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "14",
+        "type_id": "1",
+        "display_name": "alde_dun03",
+        "parent_name": "alde_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "15",
+        "type_id": "1",
+        "display_name": "orcsdun01",
+        "parent_name": "orcsdun",
+        "sprite_name": ""
+    },
+    {
+        "id": "16",
+        "type_id": "1",
+        "display_name": "mjo_dun02",
+        "parent_name": "mjo_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "17",
+        "type_id": "1",
+        "display_name": "tur_dun05",
+        "parent_name": "tur_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "18",
+        "type_id": "1",
+        "display_name": "gon_dun03",
+        "parent_name": "gon_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "19",
+        "type_id": "1",
+        "display_name": "anthell01",
+        "parent_name": "anthell",
+        "sprite_name": ""
+    },
+    {
+        "id": "20",
+        "type_id": "1",
+        "display_name": "abyss_03",
+        "parent_name": "abyss",
+        "sprite_name": ""
+    },
+    {
+        "id": "21",
+        "type_id": "1",
+        "display_name": "ice_dun03",
+        "parent_name": "ice_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "22",
+        "type_id": "1",
+        "display_name": "iz_dun03",
+        "parent_name": "iz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "23",
+        "type_id": "1",
+        "display_name": "moc_pryd01",
+        "parent_name": "moc_pryd",
+        "sprite_name": ""
+    },
+    {
+        "id": "24",
+        "type_id": "1",
+        "display_name": "gl_dun01",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "25",
+        "type_id": "1",
+        "display_name": "pay_dun03",
+        "parent_name": "pay_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "26",
+        "type_id": "1",
+        "display_name": "treasure01",
+        "parent_name": "treasure",
+        "sprite_name": ""
+    },
+    {
+        "id": "27",
+        "type_id": "1",
+        "display_name": "prt_sewb3",
+        "parent_name": "prt_sew",
+        "sprite_name": ""
+    },
+    {
+        "id": "28",
+        "type_id": "1",
+        "display_name": "moc_pryd04",
+        "parent_name": "moc_pryd",
+        "sprite_name": ""
+    },
+    {
+        "id": "29",
+        "type_id": "1",
+        "display_name": "lou_dun01",
+        "parent_name": "lou_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "30",
+        "type_id": "1",
+        "display_name": "gl_church",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "31",
+        "type_id": "1",
+        "display_name": "gef_dun00",
+        "parent_name": "gef_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "32",
+        "type_id": "1",
+        "display_name": "prt_maze02",
+        "parent_name": "prt_maze",
+        "sprite_name": ""
+    },
+    {
+        "id": "33",
+        "type_id": "1",
+        "display_name": "juperos_01",
+        "parent_name": "juperos",
+        "sprite_name": ""
+    },
+    {
+        "id": "34",
+        "type_id": "1",
+        "display_name": "gef_dun03",
+        "parent_name": "gef_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "35",
+        "type_id": "1",
+        "display_name": "gefenia04",
+        "parent_name": "gefenia",
+        "sprite_name": ""
+    },
+    {
+        "id": "36",
+        "type_id": "1",
+        "display_name": "ice_dun01",
+        "parent_name": "ice_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "37",
+        "type_id": "1",
+        "display_name": "moc_pryd06",
+        "parent_name": "moc_pryd",
+        "sprite_name": ""
+    },
+    {
+        "id": "38",
+        "type_id": "1",
+        "display_name": "mosk_dun02",
+        "parent_name": "mosk_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "39",
+        "type_id": "1",
+        "display_name": "prt_maze03",
+        "parent_name": "prt_maze",
+        "sprite_name": ""
+    },
+    {
+        "id": "40",
+        "type_id": "1",
+        "display_name": "alde_dun04",
+        "parent_name": "alde_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "41",
+        "type_id": "1",
+        "display_name": "thor_v03",
+        "parent_name": "thor_v",
+        "sprite_name": ""
+    },
+    {
+        "id": "42",
+        "type_id": "1",
+        "display_name": "gl_chyard",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "43",
+        "type_id": "1",
+        "display_name": "gon_dun01",
+        "parent_name": "gon_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "44",
+        "type_id": "1",
+        "display_name": "abyss_01",
+        "parent_name": "abyss",
+        "sprite_name": ""
+    },
+    {
+        "id": "45",
+        "type_id": "1",
+        "display_name": "gl_sew01",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "46",
+        "type_id": "1",
+        "display_name": "odin_tem01",
+        "parent_name": "odin",
+        "sprite_name": ""
+    },
+    {
+        "id": "47",
+        "type_id": "1",
+        "display_name": "gl_cas01",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "48",
+        "type_id": "1",
+        "display_name": "juperos_02",
+        "parent_name": "juperos",
+        "sprite_name": ""
+    },
+    {
+        "id": "49",
+        "type_id": "1",
+        "display_name": "kh_kiehl01",
+        "parent_name": "kh_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "50",
+        "type_id": "1",
+        "display_name": "abbey01",
+        "parent_name": "abbey",
+        "sprite_name": ""
+    },
+    {
+        "id": "51",
+        "type_id": "1",
+        "display_name": "prt_maze01",
+        "parent_name": "prt_maze",
+        "sprite_name": ""
+    },
+    {
+        "id": "52",
+        "type_id": "1",
+        "display_name": "in_sphinx1",
+        "parent_name": "in_sphinx",
+        "sprite_name": ""
+    },
+    {
+        "id": "53",
+        "type_id": "1",
+        "display_name": "schg_dun01",
+        "parent_name": "gld_dunSE",
+        "sprite_name": ""
+    },
+    {
+        "id": "54",
+        "type_id": "1",
+        "display_name": "pay_dun01",
+        "parent_name": "pay_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "55",
+        "type_id": "1",
+        "display_name": "gef_dun01",
+        "parent_name": "gef_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "56",
+        "type_id": "1",
+        "display_name": "ra_san02",
+        "parent_name": "ra_san",
+        "sprite_name": ""
+    },
+    {
+        "id": "57",
+        "type_id": "1",
+        "display_name": "tha_t04",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "58",
+        "type_id": "1",
+        "display_name": "tha_t08",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "59",
+        "type_id": "1",
+        "display_name": "ayo_dun01",
+        "parent_name": "ayo_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "60",
+        "type_id": "1",
+        "display_name": "gefenia02",
+        "parent_name": "gefenia",
+        "sprite_name": ""
+    },
+    {
+        "id": "61",
+        "type_id": "1",
+        "display_name": "lou_dun03",
+        "parent_name": "lou_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "62",
+        "type_id": "1",
+        "display_name": "lhz_dun03",
+        "parent_name": "lhz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "63",
+        "type_id": "1",
+        "display_name": "tha_t07",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "64",
+        "type_id": "1",
+        "display_name": "mosk_dun03",
+        "parent_name": "mosk_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "65",
+        "type_id": "1",
+        "display_name": "gefenia03",
+        "parent_name": "gefenia",
+        "sprite_name": ""
+    },
+    {
+        "id": "66",
+        "type_id": "1",
+        "display_name": "pay_dun02",
+        "parent_name": "pay_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "67",
+        "type_id": "1",
+        "display_name": "arug_dun01",
+        "parent_name": "gld_dunSE",
+        "sprite_name": ""
+    },
+    {
+        "id": "68",
+        "type_id": "1",
+        "display_name": "lhz_dun02",
+        "parent_name": "lhz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "69",
+        "type_id": "1",
+        "display_name": "prt_sewb4",
+        "parent_name": "prt_sew",
+        "sprite_name": ""
+    },
+    {
+        "id": "70",
+        "type_id": "1",
+        "display_name": "kh_dun02",
+        "parent_name": "kh_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "71",
+        "type_id": "1",
+        "display_name": "ra_san04",
+        "parent_name": "ra_san",
+        "sprite_name": ""
+    },
+    {
+        "id": "72",
+        "type_id": "1",
+        "display_name": "glast_01",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "73",
+        "type_id": "1",
+        "display_name": "tha_t03",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "74",
+        "type_id": "1",
+        "display_name": "ama_dun01",
+        "parent_name": "ama_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "75",
+        "type_id": "1",
+        "display_name": "mjo_dun01",
+        "parent_name": "mjo_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "76",
+        "type_id": "1",
+        "display_name": "tha_t10",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "77",
+        "type_id": "1",
+        "display_name": "ice_dun02",
+        "parent_name": "ice_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "78",
+        "type_id": "1",
+        "display_name": "moc_pryd02",
+        "parent_name": "moc_pryd",
+        "sprite_name": ""
+    },
+    {
+        "id": "79",
+        "type_id": "1",
+        "display_name": "tha_t01",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "80",
+        "type_id": "1",
+        "display_name": "gl_dun02",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "81",
+        "type_id": "1",
+        "display_name": "beach_dun",
+        "parent_name": "beach_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "82",
+        "type_id": "1",
+        "display_name": "c_tower1",
+        "parent_name": "c_tower",
+        "sprite_name": ""
+    },
+    {
+        "id": "83",
+        "type_id": "1",
+        "display_name": "mag_dun01",
+        "parent_name": "mag_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "84",
+        "type_id": "1",
+        "display_name": "alde_dun02",
+        "parent_name": "alde_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "85",
+        "type_id": "1",
+        "display_name": "abbey02",
+        "parent_name": "abbey",
+        "sprite_name": ""
+    },
+    {
+        "id": "86",
+        "type_id": "1",
+        "display_name": "in_sphinx4",
+        "parent_name": "in_sphinx",
+        "sprite_name": ""
+    },
+    {
+        "id": "87",
+        "type_id": "1",
+        "display_name": "gl_prison1",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "88",
+        "type_id": "1",
+        "display_name": "gl_sew03",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "89",
+        "type_id": "1",
+        "display_name": "gl_knt02",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "90",
+        "type_id": "1",
+        "display_name": "yggdrasil01",
+        "parent_name": "yggdrasil",
+        "sprite_name": ""
+    },
+    {
+        "id": "91",
+        "type_id": "1",
+        "display_name": "lou_dun02",
+        "parent_name": "lou_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "92",
+        "type_id": "1",
+        "display_name": "moc_pryd05",
+        "parent_name": "moc_pryd",
+        "sprite_name": ""
+    },
+    {
+        "id": "93",
+        "type_id": "1",
+        "display_name": "gl_sew04",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "94",
+        "type_id": "1",
+        "display_name": "thor_v01",
+        "parent_name": "thor_v",
+        "sprite_name": ""
+    },
+    {
+        "id": "95",
+        "type_id": "1",
+        "display_name": "gef_dun02",
+        "parent_name": "gef_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "96",
+        "type_id": "1",
+        "display_name": "ama_dun02",
+        "parent_name": "ama_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "97",
+        "type_id": "1",
+        "display_name": "gld_dun01",
+        "parent_name": "gld_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "98",
+        "type_id": "1",
+        "display_name": "orcsdun02",
+        "parent_name": "orcsdun",
+        "sprite_name": ""
+    },
+    {
+        "id": "99",
+        "type_id": "1",
+        "display_name": "thor_v02",
+        "parent_name": "thor_v",
+        "sprite_name": ""
+    },
+    {
+        "id": "100",
+        "type_id": "1",
+        "display_name": "xmas_dun02",
+        "parent_name": "xmas_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "101",
+        "type_id": "1",
+        "display_name": "beach_dun2",
+        "parent_name": "beach_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "102",
+        "type_id": "1",
+        "display_name": "tha_t02",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "103",
+        "type_id": "1",
+        "display_name": "gl_in01",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "104",
+        "type_id": "1",
+        "display_name": "gld_dun02",
+        "parent_name": "gld_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "105",
+        "type_id": "1",
+        "display_name": "odin_tem03",
+        "parent_name": "odin",
+        "sprite_name": ""
+    },
+    {
+        "id": "106",
+        "type_id": "1",
+        "display_name": "xmas_dun01",
+        "parent_name": "xmas_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "107",
+        "type_id": "1",
+        "display_name": "abbey03",
+        "parent_name": "abbey",
+        "sprite_name": ""
+    },
+    {
+        "id": "108",
+        "type_id": "1",
+        "display_name": "tur_dun04",
+        "parent_name": "tur_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "109",
+        "type_id": "1",
+        "display_name": "jupe_core",
+        "parent_name": "juperos",
+        "sprite_name": ""
+    },
+    {
+        "id": "110",
+        "type_id": "1",
+        "display_name": "um_dun02",
+        "parent_name": "um_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "111",
+        "type_id": "1",
+        "display_name": "lhz_dun01",
+        "parent_name": "lhz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "112",
+        "type_id": "1",
+        "display_name": "odin_tem02",
+        "parent_name": "odin",
+        "sprite_name": ""
+    },
+    {
+        "id": "113",
+        "type_id": "1",
+        "display_name": "abyss_02",
+        "parent_name": "abyss",
+        "sprite_name": ""
+    },
+    {
+        "id": "114",
+        "type_id": "1",
+        "display_name": "prt_sewb2",
+        "parent_name": "prt_sew",
+        "sprite_name": ""
+    },
+    {
+        "id": "115",
+        "type_id": "1",
+        "display_name": "tha_t09",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "116",
+        "type_id": "1",
+        "display_name": "in_sphinx5",
+        "parent_name": "in_sphinx",
+        "sprite_name": ""
+    },
+    {
+        "id": "117",
+        "type_id": "1",
+        "display_name": "gld_dun04",
+        "parent_name": "gld_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "118",
+        "type_id": "1",
+        "display_name": "gl_step",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "119",
+        "type_id": "1",
+        "display_name": "mosk_dun01",
+        "parent_name": "mosk_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "120",
+        "type_id": "1",
+        "display_name": "gl_sew02",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "121",
+        "type_id": "1",
+        "display_name": "gl_cas02",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "122",
+        "type_id": "1",
+        "display_name": "iz_dun02",
+        "parent_name": "iz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "123",
+        "type_id": "1",
+        "display_name": "um_dun01",
+        "parent_name": "um_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "124",
+        "type_id": "1",
+        "display_name": "ein_dun01",
+        "parent_name": "ein_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "125",
+        "type_id": "1",
+        "display_name": "beach_dun3",
+        "parent_name": "beach_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "126",
+        "type_id": "1",
+        "display_name": "alde_dun01",
+        "parent_name": "alde_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "127",
+        "type_id": "1",
+        "display_name": "pay_dun00",
+        "parent_name": "pay_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "128",
+        "type_id": "1",
+        "display_name": "in_sphinx2",
+        "parent_name": "in_sphinx",
+        "sprite_name": ""
+    },
+    {
+        "id": "129",
+        "type_id": "1",
+        "display_name": "kh_dun01",
+        "parent_name": "kh_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "130",
+        "type_id": "1",
+        "display_name": "tha_t06",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "131",
+        "type_id": "1",
+        "display_name": "prt_sewb1",
+        "parent_name": "prt_sew",
+        "sprite_name": ""
+    },
+    {
+        "id": "132",
+        "type_id": "1",
+        "display_name": "c_tower3",
+        "parent_name": "c_tower",
+        "sprite_name": ""
+    },
+    {
+        "id": "133",
+        "type_id": "1",
+        "display_name": "gld_dun03",
+        "parent_name": "gld_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "134",
+        "type_id": "1",
+        "display_name": "ayo_dun02",
+        "parent_name": "ayo_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "135",
+        "type_id": "1",
+        "display_name": "gl_knt01",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "136",
+        "type_id": "1",
+        "display_name": "c_tower4",
+        "parent_name": "c_tower",
+        "sprite_name": ""
+    },
+    {
+        "id": "137",
+        "type_id": "1",
+        "display_name": "ra_san03",
+        "parent_name": "ra_san",
+        "sprite_name": ""
+    },
+    {
+        "id": "138",
+        "type_id": "1",
+        "display_name": "iz_dun00",
+        "parent_name": "iz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "139",
+        "type_id": "1",
+        "display_name": "ra_san05",
+        "parent_name": "ra_san",
+        "sprite_name": ""
+    },
+    {
+        "id": "140",
+        "type_id": "1",
+        "display_name": "iz_dun01",
+        "parent_name": "iz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "141",
+        "type_id": "1",
+        "display_name": "gl_prison",
+        "parent_name": "glastheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "142",
+        "type_id": "1",
+        "display_name": "gon_dun02",
+        "parent_name": "gon_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "143",
+        "type_id": "1",
+        "display_name": "iz_dun04",
+        "parent_name": "iz_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "144",
+        "type_id": "1",
+        "display_name": "tur_dun01",
+        "parent_name": "tur_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "145",
+        "type_id": "1",
+        "display_name": "moc_pryd03",
+        "parent_name": "moc_pryd",
+        "sprite_name": ""
+    },
+    {
+        "id": "146",
+        "type_id": "1",
+        "display_name": "tha_t12",
+        "parent_name": "tha_t",
+        "sprite_name": ""
+    },
+    {
+        "id": "147",
+        "type_id": "1",
+        "display_name": "mag_dun02",
+        "parent_name": "mag_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "148",
+        "type_id": "1",
+        "display_name": "mjo_dun03",
+        "parent_name": "mjo_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "149",
+        "type_id": "1",
+        "display_name": "tur_dun03",
+        "parent_name": "tur_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "150",
+        "type_id": "1",
+        "display_name": "ein_dun02",
+        "parent_name": "ein_dun",
+        "sprite_name": ""
+    },
+    {
+        "id": "151",
+        "type_id": "0",
+        "display_name": "pay_fild01",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "152",
+        "type_id": "0",
+        "display_name": "moc_fild20",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "153",
+        "type_id": "0",
+        "display_name": "yuno_fild09",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "154",
+        "type_id": "0",
+        "display_name": "prt_fild11",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "155",
+        "type_id": "0",
+        "display_name": "cmd_fild01",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "156",
+        "type_id": "0",
+        "display_name": "hu_fild07",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "157",
+        "type_id": "0",
+        "display_name": "ein_fild09",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "158",
+        "type_id": "0",
+        "display_name": "yuno_fild11",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "159",
+        "type_id": "0",
+        "display_name": "pay_fild08",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "160",
+        "type_id": "0",
+        "display_name": "prt_fild03",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "161",
+        "type_id": "0",
+        "display_name": "ra_fild11",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "162",
+        "type_id": "0",
+        "display_name": "gon_fild01",
+        "parent_name": "gonryun",
+        "sprite_name": ""
+    },
+    {
+        "id": "163",
+        "type_id": "0",
+        "display_name": "prt_fild08",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "164",
+        "type_id": "0",
+        "display_name": "ein_fild08",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "165",
+        "type_id": "0",
+        "display_name": "cmd_fild05",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "166",
+        "type_id": "0",
+        "display_name": "spl_fild03",
+        "parent_name": "splendide",
+        "sprite_name": ""
+    },
+    {
+        "id": "167",
+        "type_id": "0",
+        "display_name": "man_fild03",
+        "parent_name": "manuk",
+        "sprite_name": ""
+    },
+    {
+        "id": "168",
+        "type_id": "0",
+        "display_name": "prt_fild10",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "169",
+        "type_id": "0",
+        "display_name": "pay_fild10",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "170",
+        "type_id": "0",
+        "display_name": "lhz_fild02",
+        "parent_name": "lighthalzen",
+        "sprite_name": ""
+    },
+    {
+        "id": "171",
+        "type_id": "0",
+        "display_name": "prt_fild04",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "172",
+        "type_id": "0",
+        "display_name": "moc_fild01",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "173",
+        "type_id": "0",
+        "display_name": "hu_fild01",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "174",
+        "type_id": "0",
+        "display_name": "yuno_fild01",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "175",
+        "type_id": "0",
+        "display_name": "mjolnir_02",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "176",
+        "type_id": "0",
+        "display_name": "yuno_fild10",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "177",
+        "type_id": "0",
+        "display_name": "ve_fild01",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "178",
+        "type_id": "0",
+        "display_name": "nif_fild02",
+        "parent_name": "niflheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "179",
+        "type_id": "0",
+        "display_name": "um_fild01",
+        "parent_name": "umbala",
+        "sprite_name": ""
+    },
+    {
+        "id": "180",
+        "type_id": "0",
+        "display_name": "gef_fild01",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "181",
+        "type_id": "0",
+        "display_name": "cmd_fild04",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "182",
+        "type_id": "0",
+        "display_name": "yuno_fild05",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "183",
+        "type_id": "0",
+        "display_name": "cmd_fild09",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "184",
+        "type_id": "0",
+        "display_name": "pay_fild07",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "185",
+        "type_id": "0",
+        "display_name": "ama_fild01",
+        "parent_name": "amatsu",
+        "sprite_name": ""
+    },
+    {
+        "id": "186",
+        "type_id": "0",
+        "display_name": "ein_fild06",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "187",
+        "type_id": "0",
+        "display_name": "um_fild04",
+        "parent_name": "umbala",
+        "sprite_name": ""
+    },
+    {
+        "id": "188",
+        "type_id": "0",
+        "display_name": "pay_fild05",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "189",
+        "type_id": "0",
+        "display_name": "xmas_fild01",
+        "parent_name": "lutie",
+        "sprite_name": ""
+    },
+    {
+        "id": "190",
+        "type_id": "0",
+        "display_name": "prt_fild09",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "191",
+        "type_id": "0",
+        "display_name": "prt_fild07",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "192",
+        "type_id": "0",
+        "display_name": "lou_fild01",
+        "parent_name": "louyang",
+        "sprite_name": ""
+    },
+    {
+        "id": "193",
+        "type_id": "0",
+        "display_name": "ein_fild04",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "194",
+        "type_id": "0",
+        "display_name": "ayo_fild01",
+        "parent_name": "ayothaya",
+        "sprite_name": ""
+    },
+    {
+        "id": "195",
+        "type_id": "0",
+        "display_name": "ra_fild03",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "196",
+        "type_id": "0",
+        "display_name": "cmd_fild06",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "197",
+        "type_id": "0",
+        "display_name": "prt_fild06",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "198",
+        "type_id": "0",
+        "display_name": "gef_fild03",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "199",
+        "type_id": "0",
+        "display_name": "ra_fild08",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "200",
+        "type_id": "0",
+        "display_name": "pay_fild02",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "201",
+        "type_id": "0",
+        "display_name": "ve_fild02",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "202",
+        "type_id": "0",
+        "display_name": "man_fild01",
+        "parent_name": "manuk",
+        "sprite_name": ""
+    },
+    {
+        "id": "203",
+        "type_id": "0",
+        "display_name": "gef_fild07",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "204",
+        "type_id": "0",
+        "display_name": "hu_fild05",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "205",
+        "type_id": "0",
+        "display_name": "moc_fild18",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "206",
+        "type_id": "0",
+        "display_name": "ra_fild07",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "207",
+        "type_id": "0",
+        "display_name": "moc_fild03",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "208",
+        "type_id": "0",
+        "display_name": "ayo_fild02",
+        "parent_name": "ayothaya",
+        "sprite_name": ""
+    },
+    {
+        "id": "209",
+        "type_id": "0",
+        "display_name": "hu_fild06",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "210",
+        "type_id": "0",
+        "display_name": "pay_fild11",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "211",
+        "type_id": "0",
+        "display_name": "ra_fild04",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "212",
+        "type_id": "0",
+        "display_name": "ein_fild01",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "213",
+        "type_id": "0",
+        "display_name": "yuno_fild07",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "214",
+        "type_id": "0",
+        "display_name": "moc_fild11",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "215",
+        "type_id": "0",
+        "display_name": "mjolnir_12",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "216",
+        "type_id": "0",
+        "display_name": "mjolnir_07",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "217",
+        "type_id": "0",
+        "display_name": "ra_fild13",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "218",
+        "type_id": "0",
+        "display_name": "ra_fild05",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "219",
+        "type_id": "0",
+        "display_name": "pay_fild03",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "220",
+        "type_id": "0",
+        "display_name": "ra_fild06",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "221",
+        "type_id": "0",
+        "display_name": "gef_fild06",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "222",
+        "type_id": "0",
+        "display_name": "ve_fild03",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "223",
+        "type_id": "0",
+        "display_name": "moc_fild07",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "224",
+        "type_id": "0",
+        "display_name": "mjolnir_06",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "225",
+        "type_id": "0",
+        "display_name": "ra_fild09",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "226",
+        "type_id": "0",
+        "display_name": "ve_fild07",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "227",
+        "type_id": "0",
+        "display_name": "hu_fild04",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "228",
+        "type_id": "0",
+        "display_name": "yuno_fild06",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "229",
+        "type_id": "0",
+        "display_name": "mjolnir_11",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "230",
+        "type_id": "0",
+        "display_name": "ra_fild12",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "231",
+        "type_id": "0",
+        "display_name": "ein_fild02",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "232",
+        "type_id": "0",
+        "display_name": "mjolnir_03",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "233",
+        "type_id": "0",
+        "display_name": "prt_fild01",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "234",
+        "type_id": "0",
+        "display_name": "yuno_fild03",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "235",
+        "type_id": "0",
+        "display_name": "ra_fild02",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "236",
+        "type_id": "0",
+        "display_name": "hu_fild02",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "237",
+        "type_id": "0",
+        "display_name": "gef_fild08",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "238",
+        "type_id": "0",
+        "display_name": "ra_fild10",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "239",
+        "type_id": "0",
+        "display_name": "prt_fild02",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "240",
+        "type_id": "0",
+        "display_name": "mjolnir_10",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "241",
+        "type_id": "0",
+        "display_name": "mjolnir_01",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "242",
+        "type_id": "0",
+        "display_name": "gef_fild11",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "243",
+        "type_id": "0",
+        "display_name": "cmd_fild07",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "244",
+        "type_id": "0",
+        "display_name": "um_fild03",
+        "parent_name": "umbala",
+        "sprite_name": ""
+    },
+    {
+        "id": "245",
+        "type_id": "0",
+        "display_name": "moc_fild02",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "246",
+        "type_id": "0",
+        "display_name": "moc_fild12",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "247",
+        "type_id": "0",
+        "display_name": "mjolnir_09",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "248",
+        "type_id": "0",
+        "display_name": "prt_fild00",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "249",
+        "type_id": "0",
+        "display_name": "ve_fild06",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "250",
+        "type_id": "0",
+        "display_name": "yuno_fild08",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "251",
+        "type_id": "0",
+        "display_name": "mjolnir_04",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "252",
+        "type_id": "0",
+        "display_name": "nif_fild01",
+        "parent_name": "niflheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "253",
+        "type_id": "0",
+        "display_name": "ra_fild01",
+        "parent_name": "rachel",
+        "sprite_name": ""
+    },
+    {
+        "id": "254",
+        "type_id": "0",
+        "display_name": "gef_fild09",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "255",
+        "type_id": "0",
+        "display_name": "moc_fild21",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "256",
+        "type_id": "0",
+        "display_name": "ein_fild05",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "257",
+        "type_id": "0",
+        "display_name": "spl_fild01",
+        "parent_name": "splendide",
+        "sprite_name": ""
+    },
+    {
+        "id": "258",
+        "type_id": "0",
+        "display_name": "lhz_fild03",
+        "parent_name": "lighthalzen",
+        "sprite_name": ""
+    },
+    {
+        "id": "259",
+        "type_id": "0",
+        "display_name": "gef_fild04",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "260",
+        "type_id": "0",
+        "display_name": "pay_fild04",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "261",
+        "type_id": "0",
+        "display_name": "gef_fild02",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "262",
+        "type_id": "0",
+        "display_name": "hu_fild03",
+        "parent_name": "hugel",
+        "sprite_name": ""
+    },
+    {
+        "id": "263",
+        "type_id": "0",
+        "display_name": "prt_fild05",
+        "parent_name": "prontera",
+        "sprite_name": ""
+    },
+    {
+        "id": "264",
+        "type_id": "0",
+        "display_name": "moc_fild22",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "265",
+        "type_id": "0",
+        "display_name": "ve_fild04",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "266",
+        "type_id": "0",
+        "display_name": "ein_fild10",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "267",
+        "type_id": "0",
+        "display_name": "pay_fild06",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "268",
+        "type_id": "0",
+        "display_name": "moc_fild17",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "269",
+        "type_id": "0",
+        "display_name": "ein_fild03",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "270",
+        "type_id": "0",
+        "display_name": "yuno_fild02",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "271",
+        "type_id": "0",
+        "display_name": "pay_fild09",
+        "parent_name": "payon",
+        "sprite_name": ""
+    },
+    {
+        "id": "272",
+        "type_id": "0",
+        "display_name": "cmd_fild03",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "273",
+        "type_id": "0",
+        "display_name": "gef_fild12",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "274",
+        "type_id": "0",
+        "display_name": "mjolnir_05",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "275",
+        "type_id": "0",
+        "display_name": "ve_fild05",
+        "parent_name": "veins",
+        "sprite_name": ""
+    },
+    {
+        "id": "276",
+        "type_id": "0",
+        "display_name": "moc_fild16",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "277",
+        "type_id": "0",
+        "display_name": "um_fild02",
+        "parent_name": "umbala",
+        "sprite_name": ""
+    },
+    {
+        "id": "278",
+        "type_id": "0",
+        "display_name": "gef_fild05",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "279",
+        "type_id": "0",
+        "display_name": "cmd_fild02",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "280",
+        "type_id": "0",
+        "display_name": "yuno_fild04",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "281",
+        "type_id": "0",
+        "display_name": "man_fild02",
+        "parent_name": "manuk",
+        "sprite_name": ""
+    },
+    {
+        "id": "282",
+        "type_id": "0",
+        "display_name": "spl_fild02",
+        "parent_name": "splendide",
+        "sprite_name": ""
+    },
+    {
+        "id": "283",
+        "type_id": "0",
+        "display_name": "gef_fild13",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "284",
+        "type_id": "0",
+        "display_name": "mosk_fild02",
+        "parent_name": "moscovia",
+        "sprite_name": ""
+    },
+    {
+        "id": "285",
+        "type_id": "0",
+        "display_name": "lhz_fild01",
+        "parent_name": "lighthalzen",
+        "sprite_name": ""
+    },
+    {
+        "id": "286",
+        "type_id": "0",
+        "display_name": "gef_fild10",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "287",
+        "type_id": "0",
+        "display_name": "niflheim",
+        "parent_name": "niflheim",
+        "sprite_name": ""
+    },
+    {
+        "id": "288",
+        "type_id": "0",
+        "display_name": "gef_fild00",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    },
+    {
+        "id": "289",
+        "type_id": "0",
+        "display_name": "ein_fild07",
+        "parent_name": "einbroch",
+        "sprite_name": ""
+    },
+    {
+        "id": "290",
+        "type_id": "0",
+        "display_name": "cmd_fild08",
+        "parent_name": "comodo",
+        "sprite_name": ""
+    },
+    {
+        "id": "291",
+        "type_id": "0",
+        "display_name": "mjolnir_08",
+        "parent_name": "mjolnir",
+        "sprite_name": ""
+    },
+    {
+        "id": "292",
+        "type_id": "0",
+        "display_name": "yuno_fild12",
+        "parent_name": "yuno",
+        "sprite_name": ""
+    },
+    {
+        "id": "293",
+        "type_id": "0",
+        "display_name": "moc_fild13",
+        "parent_name": "morocc",
+        "sprite_name": ""
+    },
+    {
+        "id": "294",
+        "type_id": "0",
+        "display_name": "gef_fild14",
+        "parent_name": "geffen",
+        "sprite_name": ""
+    }
+]
